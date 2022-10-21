@@ -19,3 +19,17 @@ Alguns links que podem ajudar de alguma forma:
 [Product Hunt - Ideias para projetos](https://www.producthunt.com/)
 
 [Dribbble - Ideias de design](https://dribbble.com/)
+
+## API`s livres
+
+[API`s publicas - Github](https://github.com/public-api-lists/public-api-lists)
+
+[Piadas de tio](https://icanhazdadjoke.com/)
+
+[Breaking Bad](https://breakingbadapi.com/documentation)
+
+[Pokemon](https://pokeapi.co/)
+
+[github](https://api.github.com)
+
+[imdb](https://www.omdbapi.com/)
