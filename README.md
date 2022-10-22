@@ -59,3 +59,17 @@ Alguns links que podem ajudar de alguma forma:
 
 [Artigo: JavaScript Clean Coding Best Practices](https://medium.com/preezma/javascript-clean-coding-best-practices-c6adb8e3e4c8)
 
+## Youtube
+[Rocketseat](https://www.youtube.com/c/RocketSeat)
+
+[Full Cycle](https://www.youtube.com/c/FullCycle)
+
+[Filipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
+
+[Dev Ed](https://www.youtube.com/c/DevEd)
+
+[Loiane Groner](https://www.youtube.com/c/loianegroner)
+
+[Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
+
+[Fabio Akita](https://www.youtube.com/c/FabioAkita1990)
