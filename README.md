@@ -33,3 +33,10 @@ Alguns links que podem ajudar de alguma forma:
 [github](https://api.github.com)
 
 [imdb](https://www.omdbapi.com/)
+
+
+## Guias
+
+[Roadmap.sh](https://roadmap.sh/)
+
+[Guia front-end](https://jlcarvalho.github.io/guia-frontend/)
