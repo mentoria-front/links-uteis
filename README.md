@@ -59,6 +59,8 @@ Alguns links que podem ajudar de alguma forma:
 
 [Livro: Não me faça pensa - Amazon](https://www.amazon.com.br/N%C3%A3o-fa%C3%A7a-pensar-Steve-Krug/dp/8576088509/ref=sr_1_2?tag=genfonts-20)
 
+[Livro: O Programador Pragmático](https://www.amazon.com.br/Programador-Pragm%C3%A1tico-Aprendiz-Mestre/dp/8577807002/ref=asc_df_8577807002/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=2789693060086133459&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001686&hvtargid=pla-1412458569268&psc=1)
+
 [Artigo: JavaScript Clean Coding Best Practices](https://medium.com/preezma/javascript-clean-coding-best-practices-c6adb8e3e4c8)
 
 ## Youtube
