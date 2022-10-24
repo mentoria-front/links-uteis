@@ -34,6 +34,8 @@ Alguns links que podem ajudar de alguma forma:
 
 [imdb](https://www.omdbapi.com/)
 
+[Rick and Morty](https://rickandmortyapi.com/api)
+
 ## Guias
 
 [Roadmap.sh](https://roadmap.sh/)
